@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+missingno
+scikit-learn
+requests
